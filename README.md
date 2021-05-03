@@ -8,7 +8,7 @@
 ## [Test Plan](testplan.txt)
 
 ## __Installing Dependencies__
-1. Install Cybress
+1. Install Cypress
 ````
 npm install cypress
 ````
